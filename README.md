@@ -1,5 +1,6 @@
 # Password Manager - System Design Document
 
+
 ## 1. Architecture Overview
 
 ```
